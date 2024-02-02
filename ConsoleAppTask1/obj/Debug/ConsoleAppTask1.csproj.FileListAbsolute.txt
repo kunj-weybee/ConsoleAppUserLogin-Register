@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\ConsoleAppTask1.exe.config
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\ConsoleAppTask1.exe
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\ConsoleAppTask1.pdb
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.csproj.CopyComplete
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.exe
+C:\Users\DELL\source\repos\ConsoleAppTask1\ConsoleAppTask1\obj\Debug\ConsoleAppTask1.pdb
